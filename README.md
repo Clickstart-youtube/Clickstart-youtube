@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clickstart-youtube
-- 👀 I’m interested in ...Youtube
+- 👀 I’m interested in ...Making youtube videos
 - 🌱 I’m currently learning ...software Development
 - 💞️ I’m looking to collaborate on ...Nothing
 - 📫 How to reach me ...E-mail
